@@ -1,7 +1,5 @@
 The Battle of Neighborhoods | Business Proposal | Introduction¶
-
 Introduction:
-
 My propsosal for this Project is directed at  helping people explore better facilities around their neighbourhood. This proposal is designed to help people make rational and beneficial decisions, based on clustering and segmenting of the neighbourhoods in Scarborough, Toranto.
 There and many people migrating to various states of Canada, more and more ever year. housing prices and reputable schools are a necessity for these migrates. This project is for those looking for a new start, and a better way of life. For ease of access to Cafes, Schools, Super markets, medical shops, grocery shops, a mall, theatre, hospital, and even like minded people.
 The aim of this Project is to create an analysis for people migrating to Scarborough, to search the best areas for settlement, as a comparative analysis between neighborhoods. The features include housing price and better schools according to ratings, crime rates of that particular area, road connectivity, weather conditions, emergency services, water resources, both freash and waste water, and excrement conveyed in sewers, as well as recreational facilities. I believe this an analysis will be very beneficial to those mentioned above, and for finding all facilities mentioned above. 
